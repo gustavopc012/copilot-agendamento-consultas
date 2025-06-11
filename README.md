@@ -6,6 +6,10 @@ Este projeto foi criado como parte do desafio da DIO para explorar o Microsoft C
 
 ---
 
+## O que foi feito
+
+### 1. Copilot com Fluxo de Conversa, personalizado para um Agendamento de Consultas Médicas.
+
 - Cadastrar pacientes e médicos
 - Agendar consultas
 - Listar horários disponíveis
