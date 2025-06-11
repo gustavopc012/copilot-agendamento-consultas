@@ -14,3 +14,8 @@ Este projeto foi criado como parte do desafio da DIO para explorar o Microsoft C
 - Agendar consultas
 - Listar horários disponíveis
 - Cancelar e reagendar
+
+---
+
+##  Arquivo do Projeto
+- `copilot_agendamento_consultas.md`
